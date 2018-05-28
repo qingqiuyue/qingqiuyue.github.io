@@ -12,11 +12,11 @@ redirect_from:
 
 {% include base_path %}
 
-Minimal Mistakes has been developed to be 100% compatible with hosting a site on [GitHub Pages](https://pages.github.com/). To get up and running with a new GitHub repository quickly, follow these steps or jump ahead to the [full installation guide]({{ base_path }}/docs/installation/).
+成长旅途中每每感触与思索都可以来[论坛](https://discourse.qingqiuyue.com/)瞅瞅，思想是[清秋月](https://qingqiuyue.com/)最崇高的信仰。我们只是寻道旅途中一处风景，道友不妨领略一番.
 
-## Fork the Theme
+## 从成长说起
 
-Fork the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes/fork), then rename the repo to **USERNAME.github.io** --- replacing **USERNAME** with your GitHub username.
+儿时的记忆, 恍惚间已忘记许多。萦绕心间的，是 **姥姥和老爷的陪伴**，是 **哥哥和姐姐的照顾**，是**父辈人的关爱**，是**小伙伴的友谊**… 
 
 <figure>
   <img src="{{ base_path }}/images/mm-theme-fork-repo.png" alt="fork Minimal Mistakes">
@@ -34,7 +34,7 @@ If you're hosting several Jekyll based sites under the same GitHub username you 
 **ProTip:** Be sure to [delete](https://github.com/blog/1377-create-and-delete-branches) the `gh-pages` branch if you forked Minimal Mistakes. This branch contains the documentation and demo site for the theme and you probably don't want that showing up in your repo.
 {: .notice--info}
 
-## Customize Your Site
+## 于思考中接续
 
 Open up `_config.yml` found in the root of the repo and edit anything under **Site Settings**. For a full explanation of every setting be sure to read the [**Configuration**]({{ base_path }}/docs/configuration/) section, but for now let's just change the site's title.
 
