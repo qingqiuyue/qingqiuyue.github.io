@@ -43,14 +43,14 @@ docs:
     children:
       - title: "快速开始"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "念由心生"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "清秋月起"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "时空域出"
         url: /docs/upgrading/
 
-  - title: Customization
+  - title: 清秋月界
     children:
       - title: "Configuration"
         url: /docs/configuration/
@@ -63,7 +63,7 @@ docs:
       - title: "Layouts"
         url: /docs/layouts/
 
-  - title: Content
+  - title: 时空域盟
     children:
       - title: "Working with Posts"
         url: /docs/posts/
@@ -76,14 +76,14 @@ docs:
       - title: "Utility Classes"
         url: /docs/utility-classes/
 
-  - title: Extras
+  - title: 苍茫宇宙
     children:
       - title: "Stylesheets"
         url: /docs/stylesheets/
       - title: "JavaScript"
         url: /docs/javascript/
 
-  - title: Meta
+  - title: 伴生仆灵
     children:
       - title: "History"
         url: /docs/history/

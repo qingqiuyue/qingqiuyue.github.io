@@ -1,11 +1,17 @@
 ---
-title: "Structure"
-permalink: /docs/structure/
-excerpt: "How the theme is organized and what all of the files are for."
-modified: 2016-08-08T16:25:30-04:00
+title: 念随心生
+layout: single
+sidebar:
+  nav: docs
+permalink: "/docs/structure/"
+excerpt: How the theme is organized and what all of the files are for.
+modified: '2016-08-08 16:25:30 -0400'
 ---
 
-Nothing clever here :wink:. Layouts, data files, and includes are all placed in their default locations. Stylesheets and scripts in `assets`, and a few development related files in the project's root directory.
+原谅我从心而发 :wink:. 心感知了时空的波动，此时的你，或品读我，或回首你岁月的旧亿，或沉思，或无觉.
+这个时代，有人说`喜爱也好，梦想也罢，人生在世总得有点追求，万一实现了呢！`.有好多人说了好多，我们终是会有点思考的，成长还分高下对错吗！我听闻`大道三千，择其一而从之。流水三千，取—瓢而饮之`，听闻`要有最朴素的生活，和最遥远的梦想，即使明日天寒地冻，路遥马亡`,好多好多，我驻足良久的岁月，我深思梦呓的深情，我痛苦流涕期许的故事。
+最后的最后，我以我的所有，勾画文明的古卷，清秋月仅仅是浩瀚无尽时空域的一份子。愿不久的将来，时空域中，繁华无尽
+
 
 ```bash
 minimal-mistakes
