@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.org/
   specs:
     activesupport (4.2.9)
       i18n (~> 0.7)
@@ -61,6 +61,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (~> 3.0)
+    kramdown (1.16.2)
     liquid (4.0.0)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -123,6 +124,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  concurrent-ruby
   jekyll (~> 3.8.1)
   jekyll-admin
   jekyll-feed
